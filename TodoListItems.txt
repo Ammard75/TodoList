@@ -1,0 +1,9 @@
+Mail birthday card	Buy birthday card for John	05-10-2020
+Doctors appointment	See doctor Smith at 123 Main Street. Bring paperwork.	01-11-2020
+Finish design proposal for client	I promised Mike an email with mockups by Friday 22nd October	22-10-2020
+Pickup Doug at the train station	Doug is arriving on December 20 on the 05:00 train	20-12-2020
+Pickup dry cleaning	Clothes should be ready by wednesday	16-09-2020
+My new TodoItem	This is a new TodoItem.	05-10-2020
+My new Item	This is testing the selection of last added item.	07-10-2020
+End the udemy java course	I should really work out that java course and finish it.	17-10-2020
+update a long todoItem	updated a really long todoItem.	04-10-2020
